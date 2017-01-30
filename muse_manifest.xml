@@ -1,0 +1,65 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tecniagrupV2.com" resolutions="1x" timestamp="1485731656550">
+  <folder name="css">
+    <file name="site_global.css" crc="3975793314"/>
+    <file name="master_a-master.css" crc="384020586" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="189519030" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
+    <file name="contactos.css" crc="480072990" ref="contactos"/>
+    <file name="nomq_contactos.css" crc="7977798" ref="contactos"/>
+    <file name="productos.css" crc="480072990" ref="productos"/>
+    <file name="nomq_productos.css" crc="7977798" ref="productos"/>
+    <file name="servicios.css" crc="480072990" ref="servicios"/>
+    <file name="nomq_servicios.css" crc="7977798" ref="servicios"/>
+    <file name="clientes.css" crc="480072990" ref="clientes"/>
+    <file name="nomq_clientes.css" crc="7977798" ref="clientes"/>
+    <file name="la-empresa.css" crc="480072990" ref="la-empresa"/>
+    <file name="nomq_la-empresa.css" crc="7977798" ref="la-empresa"/>
+    <file name="index.css" crc="175349716" ref="index"/>
+    <file name="nomq_index.css" crc="336930397" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="museutils.js" crc="4148063285" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="webpro.js" crc="3986320349" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u806.php" crc="3861278847" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="require.js" crc="4159430777" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="396928730" ref="index"/>
+    <file name="img-logo_lightback.png" crc="4114373420" seo="true" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="blank.gif" crc="4208392903" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="1070.jpg" crc="3843419555" ref="index"/>
+    <file name="businessman-with-helmet.svg" crc="65963349" seo="true" ref="index"/>
+    <file name="businessman-with-helmet_poster_.png" crc="4094514779" ref="index"/>
+    <file name="2940.jpg" crc="4024652388" ref="index"/>
+    <file name="img_logofooter.png" crc="13926115" seo="true" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="logo_facebook.svg" crc="3886503056" seo="true" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="logo_facebook_poster_.png" crc="4294241946" ref="index"/>
+    <file name="logo_twitter.svg" crc="3780217309" seo="true" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
+    <file name="logo_twitter_poster_.png" crc="360764683" ref="index"/>
+    <file name="abrir.svg" crc="3788393034" ref="index"/>
+    <file name="abrir_poster_u6408.png" crc="294594782" ref="index"/>
+    <file name="cerrar.svg" crc="4170235069" ref="index"/>
+    <file name="cerrar_poster_u7010.png" crc="411524846" ref="index"/>
+    <file name="2940-u19999-fr.jpg" crc="4279207629" ref="index"/>
+    <file name="1070-u7133-fr.jpg" crc="500816671" ref="index"/>
+    <file name="2940-u19999-fr2.jpg" crc="320053912" ref="index"/>
+    <file name="2940-u19999-fr3.jpg" crc="325470320" ref="index"/>
+  </folder>
+  <file name="index.html" crc="42431262" seo="true" mt="1485730304879" redirect="true"/>
+  <file name="la-empresa.html" crc="3941709549" seo="true" mt="1485729320980" redirect="true"/>
+  <file name="servicios.html" crc="230898728" seo="true" mt="1485729320980" redirect="true"/>
+  <file name="productos.html" crc="309938649" seo="true" mt="1485729320980" redirect="true"/>
+  <file name="clientes.html" crc="226415071" seo="true" mt="1485729320980" redirect="true"/>
+  <file name="contactos.html" crc="426169815" seo="true" mt="1485729320980" redirect="true"/>
+</manifest>
