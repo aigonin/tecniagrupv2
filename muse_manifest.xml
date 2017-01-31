@@ -1,20 +1,20 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tecniagrupV2_1.com" resolutions="1x" timestamp="1485761622200">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tecniagrupV2.com" resolutions="1x" timestamp="1485847261128">
   <folder name="css">
     <file name="site_global.css" crc="3975793314"/>
-    <file name="master_a-master.css" crc="4239539844" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="189519030" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
-    <file name="contactos.css" crc="4148576923" ref="contactos"/>
-    <file name="nomq_contactos.css" crc="423156425" ref="contactos"/>
-    <file name="productos.css" crc="4148576923" ref="productos"/>
-    <file name="nomq_productos.css" crc="423156425" ref="productos"/>
-    <file name="servicios.css" crc="4148576923" ref="servicios"/>
-    <file name="nomq_servicios.css" crc="423156425" ref="servicios"/>
-    <file name="clientes.css" crc="4148576923" ref="clientes"/>
-    <file name="nomq_clientes.css" crc="423156425" ref="clientes"/>
-    <file name="la-empresa.css" crc="4148576923" ref="la-empresa"/>
-    <file name="nomq_la-empresa.css" crc="423156425" ref="la-empresa"/>
-    <file name="index.css" crc="145118698" ref="index"/>
-    <file name="nomq_index.css" crc="190867574" ref="index"/>
+    <file name="master_a-master.css" crc="4014198341" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="534212389" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
+    <file name="contactos.css" crc="3774060077" ref="contactos"/>
+    <file name="nomq_contactos.css" crc="3885982308" ref="contactos"/>
+    <file name="productos.css" crc="3774060077" ref="productos"/>
+    <file name="nomq_productos.css" crc="3885982308" ref="productos"/>
+    <file name="servicios.css" crc="3774060077" ref="servicios"/>
+    <file name="nomq_servicios.css" crc="3885982308" ref="servicios"/>
+    <file name="clientes.css" crc="3774060077" ref="clientes"/>
+    <file name="nomq_clientes.css" crc="3885982308" ref="clientes"/>
+    <file name="la-empresa.css" crc="3774060077" ref="la-empresa"/>
+    <file name="nomq_la-empresa.css" crc="3885982308" ref="la-empresa"/>
+    <file name="index.css" crc="3961908320" ref="index"/>
+    <file name="nomq_index.css" crc="3803483954" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
@@ -42,6 +42,12 @@
     <file name="1070.jpg" crc="3843419555" ref="index"/>
     <file name="businessman-with-helmet.svg" crc="65963349" seo="true" ref="index"/>
     <file name="businessman-with-helmet_poster_.png" crc="4094514779" ref="index"/>
+    <file name="grupo-electrógeno-nautice-crop-u32488.jpg" crc="4150448791" ref="index"/>
+    <file name="22510664767_138be1984f_b-crop-u32474.jpg" crc="3781821671" ref="index"/>
+    <file name="21376727584_514736d5f8_o-crop-u32467.jpg" crc="3853837373" ref="index"/>
+    <file name="cable-estructurado-01-crop-u32481.jpg" crc="514157124" ref="index"/>
+    <file name="medicion-a-tierra-large-crop-u32495.jpg" crc="3777803900" ref="index"/>
+    <file name="18544696790_8e2283b292_b-crop-u32459.jpg" crc="531854614" ref="index"/>
     <file name="2940.jpg" crc="4024652388" ref="index"/>
     <file name="img_logofooter_darkbg.svg" crc="4247868716" seo="true" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
     <file name="img_logofooter_darkbg_poster_.png" crc="442767128" ref="index"/>
@@ -53,15 +59,35 @@
     <file name="abrir_poster_u6408.png" crc="294594782" ref="index"/>
     <file name="cerrar.svg" crc="4170235069" ref="index"/>
     <file name="cerrar_poster_u7010.png" crc="411524846" ref="index"/>
+    <file name="grupo-electrógeno-nautice-crop-u324882.jpg" crc="4171385981" ref="index"/>
+    <file name="21376727584_514736d5f8_o-crop-u324672.jpg" crc="252627064" ref="index"/>
+    <file name="cable-estructurado-01-crop-u324812.jpg" crc="368043999" ref="index"/>
+    <file name="medicion-a-tierra-large-crop-u324952.jpg" crc="4082609187" ref="index"/>
+    <file name="22510664767_138be1984f_b-crop-u324742.jpg" crc="344952612" ref="index"/>
+    <file name="18544696790_8e2283b292_b-crop-u324592.jpg" crc="4056657873" ref="index"/>
     <file name="2940-u19999-fr.jpg" crc="4279207629" ref="index"/>
+    <file name="arrow-left-direction.svg" crc="4081183430" ref="index"/>
+    <file name="arrow-left-direction_poster_u36125.png" crc="3838168801" ref="index"/>
     <file name="1070-u7133-fr.jpg" crc="500816671" ref="index"/>
+    <file name="grupo-electrógeno-nautice-crop-u324883.jpg" crc="4155540953" ref="index"/>
+    <file name="21376727584_514736d5f8_o-crop-u324673.jpg" crc="278598958" ref="index"/>
+    <file name="cable-estructurado-01-crop-u324813.jpg" crc="333464191" ref="index"/>
+    <file name="medicion-a-tierra-large-crop-u324953.jpg" crc="136307222" ref="index"/>
+    <file name="22510664767_138be1984f_b-crop-u324743.jpg" crc="3941276465" ref="index"/>
+    <file name="18544696790_8e2283b292_b-crop-u324593.jpg" crc="4234098202" ref="index"/>
     <file name="2940-u19999-fr2.jpg" crc="320053912" ref="index"/>
+    <file name="grupo-electrógeno-nautice-crop-u324884.jpg" crc="510721854" ref="index"/>
+    <file name="21376727584_514736d5f8_o-crop-u324674.jpg" crc="506939777" ref="index"/>
+    <file name="cable-estructurado-01-crop-u324814.jpg" crc="494560043" ref="index"/>
+    <file name="medicion-a-tierra-large-crop-u324954.jpg" crc="3986274824" ref="index"/>
+    <file name="22510664767_138be1984f_b-crop-u324744.jpg" crc="4029918182" ref="index"/>
+    <file name="18544696790_8e2283b292_b-crop-u324594.jpg" crc="4190438434" ref="index"/>
     <file name="2940-u19999-fr3.jpg" crc="4155643944" ref="index"/>
   </folder>
-  <file name="index.html" crc="4100255645" seo="true" mt="1485760205096" redirect="true"/>
-  <file name="la-empresa.html" crc="3779746716" seo="true" mt="1485760205096" redirect="true"/>
-  <file name="servicios.html" crc="3844670253" seo="true" mt="1485760205096" redirect="true"/>
-  <file name="productos.html" crc="3782576994" seo="true" mt="1485760205096" redirect="true"/>
-  <file name="clientes.html" crc="3813648258" seo="true" mt="1485760205096" redirect="true"/>
-  <file name="contactos.html" crc="4111354785" seo="true" mt="1485760205096" redirect="true"/>
+  <file name="index.html" crc="533907768" seo="true" mt="1485847135512" redirect="true"/>
+  <file name="la-empresa.html" crc="350409250" seo="true" mt="1485847135512" redirect="true"/>
+  <file name="servicios.html" crc="101707190" seo="true" mt="1485847135512" redirect="true"/>
+  <file name="productos.html" crc="3918524441" seo="true" mt="1485847135512" redirect="true"/>
+  <file name="clientes.html" crc="469828616" seo="true" mt="1485847135512" redirect="true"/>
+  <file name="contactos.html" crc="3929891586" seo="true" mt="1485847135512" redirect="true"/>
 </manifest>
