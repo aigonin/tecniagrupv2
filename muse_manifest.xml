@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tecniagrupV2.com" resolutions="1x" timestamp="1485848818294">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tecniagrupV2.com" resolutions="1x" timestamp="1485849206232">
   <folder name="css">
     <file name="site_global.css" crc="3975793314"/>
     <file name="master_a-master.css" crc="4215338081" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
@@ -13,7 +13,7 @@
     <file name="nomq_clientes.css" crc="3885982308" ref="clientes"/>
     <file name="la-empresa.css" crc="371948356" ref="la-empresa"/>
     <file name="nomq_la-empresa.css" crc="3885982308" ref="la-empresa"/>
-    <file name="index.css" crc="4143637232" ref="index"/>
+    <file name="index.css" crc="516350538" ref="index"/>
     <file name="nomq_index.css" crc="4028362038" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -84,10 +84,10 @@
     <file name="18544696790_8e2283b292_b-crop-u324594.jpg" crc="4190438434" ref="index"/>
     <file name="2940-u19999-fr3.jpg" crc="4155643944" ref="index"/>
   </folder>
-  <file name="index.html" crc="288604047" seo="true" mt="1485848700802" redirect="true"/>
-  <file name="la-empresa.html" crc="324343569" seo="true" mt="1485847885945" redirect="true"/>
-  <file name="servicios.html" crc="279927026" seo="true" mt="1485847885945" redirect="true"/>
-  <file name="productos.html" crc="138092729" seo="true" mt="1485847885945" redirect="true"/>
-  <file name="clientes.html" crc="4205087656" seo="true" mt="1485847885945" redirect="true"/>
-  <file name="contactos.html" crc="4219369501" seo="true" mt="1485847885945" redirect="true"/>
+  <file name="index.html" crc="3812476026" seo="true" mt="1485849080588" redirect="true"/>
+  <file name="la-empresa.html" crc="523591738" seo="true" mt="1485847885945" redirect="true"/>
+  <file name="servicios.html" crc="3972609639" seo="true" mt="1485847885945" redirect="true"/>
+  <file name="productos.html" crc="4057068492" seo="true" mt="1485847885945" redirect="true"/>
+  <file name="clientes.html" crc="95825319" seo="true" mt="1485847885945" redirect="true"/>
+  <file name="contactos.html" crc="3918753823" seo="true" mt="1485847885945" redirect="true"/>
 </manifest>
