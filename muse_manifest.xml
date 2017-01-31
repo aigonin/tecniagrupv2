@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tecniagrupV2.com" resolutions="1x" timestamp="1485847946837">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tecniagrupV2.com" resolutions="1x" timestamp="1485848241669">
   <folder name="css">
     <file name="site_global.css" crc="3975793314"/>
-    <file name="master_a-master.css" crc="4215338081" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="534212389" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
+    <file name="master_a-master.css" crc="480160584" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="407502106" ref="contactos:productos:servicios:clientes:la-empresa:index"/>
     <file name="contactos.css" crc="371948356" ref="contactos"/>
     <file name="nomq_contactos.css" crc="3885982308" ref="contactos"/>
     <file name="productos.css" crc="371948356" ref="productos"/>
@@ -13,8 +13,8 @@
     <file name="nomq_clientes.css" crc="3885982308" ref="clientes"/>
     <file name="la-empresa.css" crc="371948356" ref="la-empresa"/>
     <file name="nomq_la-empresa.css" crc="3885982308" ref="la-empresa"/>
-    <file name="index.css" crc="340442205" ref="index"/>
-    <file name="nomq_index.css" crc="4059018332" ref="index"/>
+    <file name="index.css" crc="4048571532" ref="index"/>
+    <file name="nomq_index.css" crc="4246630668" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:la-empresa:servicios:productos:clientes:contactos"/>
@@ -84,7 +84,7 @@
     <file name="18544696790_8e2283b292_b-crop-u324594.jpg" crc="4190438434" ref="index"/>
     <file name="2940-u19999-fr3.jpg" crc="4155643944" ref="index"/>
   </folder>
-  <file name="index.html" crc="190276723" seo="true" mt="1485847885945" redirect="true"/>
+  <file name="index.html" crc="28189117" seo="true" mt="1485848212275" redirect="true"/>
   <file name="la-empresa.html" crc="37982120" seo="true" mt="1485847885945" redirect="true"/>
   <file name="servicios.html" crc="3899449445" seo="true" mt="1485847885945" redirect="true"/>
   <file name="productos.html" crc="365227248" seo="true" mt="1485847885945" redirect="true"/>
